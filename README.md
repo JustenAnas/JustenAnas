@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated wave greeting -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 <!-- Typing SVG - Name + Roles -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anas+(JustenAnas);Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+TypeScript;Three.js+%7C+GSAP+%7C+Shaders+%F0%9F%8C%8C;AI+%2B+Web+%2B+%F0%9F%9A%80;Building+real+things%2C+not+just+tutorials.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anas+(JustenAnas);Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+TypeScript;Three.js+%7C+GSAP+%7C+Shaders+%F0%9F%8C%8C;AI+%2B+Web+%2B+Business+%F0%9F%9A%80;Building+real+things%2C+not+just+tutorials.)](https://git.io/typing-svg)
 
 <!-- Nidhi-style ASCII art portrait -->
 ```
@@ -70,6 +70,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JustenAnas&theme=onestar&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 > 🦈 **Pull Shark** · ⚡ **YOLO** — earned in battle.
+
+</div>
+
+---
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/JustenAnas/JustenAnas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -178,6 +190,7 @@
 | Project | Live | Repo | Stack |
 |---------|------|------|-------|
 | 🚕 **RideX** — Full-stack ride-hailing app. Real-time tracking, payments, video KYC, Socket.io chat | [▶ Demo](https://ridex-liard-two.vercel.app/) | [GitHub](https://github.com/JustenAnas/Nextjs-projects/tree/main/project-2-ridex) | Next.js 15, MongoDB, Socket.io, Razorpay |
+| 🤖 **Leda AI** — AI voice agent that makes & receives real phone calls via SIP trunking | _coming soon_ | _in progress_ | Twilio, VideoSDK, Node.js |
 | 📄 **AI Resume Builder** — GenAI-powered resume generator with MERN stack | [▶ Demo](https://resume-maker-with-gen-ai-using-mern.vercel.app) | [GitHub](https://github.com/JustenAnas/ResumeMaker-with-genAI-using-MERN) | MERN, GenAI |
 | 🖼️ **AI Image Enhancer** — Upscale & enhance images with AI | [▶ Demo](https://image-inhancer.vercel.app/) | [GitHub](https://github.com/JustenAnas/Reactjs-Projects) | React |
 | 🏦 **Banking System API** — REST API for core banking operations | [▶ Demo](https://banking-system-tlgs.onrender.com) | [GitHub](https://github.com/JustenAnas/backend-projects) | Node.js, Express, MongoDB |
