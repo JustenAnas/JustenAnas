@@ -4,48 +4,23 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anas+(JustenAnas);Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+TypeScript;Three.js+%7C+GSAP+%7C+Shaders+%F0%9F%8C%8C;AI+Agents+%7C+RAG+%7C+Full-Stack+%F0%9F%9A%80;Building+real+things%2C+not+just+tutorials.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anas+%28JustenAnas%29;Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+TypeScript;Three.js+%7C+GSAP+%7C+Shaders+%F0%9F%8C%8C;AI+Agents+%7C+RAG+%7C+Full-Stack+%F0%9F%9A%80;Building+real+things%2C+not+just+tutorials.)](https://git.io/typing-svg)
 
-<!-- ASCII Art -->
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡿⣻⢛⣿⣫⢯⣄⡽⣟⡿⣛⠿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠿⣻⣍⣥⣾⣾⣯⣿⣿⣿⣿⣿⣿⣾⣷⣾⣵⣭⣺⣕⣻⢙⡻⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢟⣥⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣽⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⡟⣵⣷⣶⣿⣿⣿⣿⣿⣿⣿⠟⠛⡟⠻⡍⠛⠻⡟⢻⡟⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
-⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣱⣾⣿⣿⣿⣿⡿⢻⡟⠁⠀⠈⣇⠀⣿⠀⠻⡄⠀⠸⡄⢳⡀⠸⡆⠙⢿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀
-⢸⣿⣿⣿⣿⣿⣿⢫⣵⣷⣿⣿⣿⡿⢻⡏⢠⡞⠀⠀⠀⠀⢹⡄⠘⡄⠀⠻⣄⠀⢱⡌⢣⠀⢷⠀⠀⢷⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀
-⢸⣿⣿⣿⣿⡿⢣⣤⣿⣿⣿⣿⠛⣽⠁⣼⢠⡞⠀⠀⠀⠀⠀⢿⡀⣿⠀⠀⠹⣆⠀⢳⡼⡇⠀⢧⠀⠀⣧⠀⠘⢿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀
-⢸⣿⣿⣿⣿⢋⣤⣾⣿⣿⡿⣿⠀⢀⡏⢠⠇⡜⠁⠀⠀⠀⠀⠀⢻⡘⣆⠀⠀⠈⢣⡀⢳⣼⡆⠘⣦⠀⠘⡆⡆⠈⣟⣿⣿⣿⣿⣿⣿⣆⠀⠀
-⢸⣿⣿⣿⠟⢡⣿⣿⣿⣿⠏⠀⡏⠀⣸⠀⣼⣸⠃⠀⠀⠀⠀⠀⠀⠙⢿⡄⠀⠀⠀⠻⣄⣻⣻⣦⠘⣦⠀⢿⢿⠀⢸⡼⣿⣿⣿⣿⣿⣇⠀
-⢸⣿⣿⡿⣻⣾⣿⣿⣿⡇⠀⠀⡇⠀⣿⢠⢇⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠈⢳⣷⣿⣦⠘⣦⠘⣾⠀⠘⡇⢻⣿⣿⣿⣿⣿⠀
-⠈⣿⣿⡿⣱⣿⣿⣿⡟⣸⠃⠀⠀⡇⠀⡏⣼⣾⠀⢀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠽⣮⢿⣦⠘⣆⣿⡇⠀⣇⢸⣿⣿⣿⡿⠀
-⠀⢹⣿⣏⣾⣿⣿⡟⢡⠇⠀⢠⡆⡇⠀⡇⣇⠗⠋⠉⠉⠉⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⣀⡔⠉⠁⠀⠈⠛⣶⢧⣹⣽⡇⠀⢸⢸⣿⣿⣿⠃⠀
-⠀⢘⣿⣿⣿⣿⢡⡞⠀⢠⣿⣿⣷⠀⡇⣿⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⠀⠀⣸⠏⠀⠀⢀⣀⣀⣀⠘⣧⡻⣿⡇⠀⢸⣾⣿⣿⣿⠃⠀⠀
-⠀⣸⣿⣿⣿⢣⠟⢀⡰⣻⢫⣏⣿⢀⠇⣯⠀⣠⠴⣿⢫⣽⡿⠤⠀⠀⠀⠀⢸⠇⠀⣠⢴⣫⣿⢭⣭⠿⢯⣁⣹⡇⠀⢸⣿⣿⣿⡿⠁⠀⠀
-⢸⣿⣿⣿⡿⣯⡠⢞⡽⢣⢿⣿⢹⣸⡀⣨⠞⣧⣴⣿⡿⠿⠿⡷⠄⠀⠀⠀⢸⠀⠈⢱⡾⠗⠛⠛⠿⣷⡿⠁⢸⡇⠀⢸⢻⣿⣿⠟⠁⠀⠀
-⣿⣿⣿⣿⠁⢠⢶⣞⡵⠋⢸⣿⠈⢧⠷⠁⣴⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠈⠀⠀⠀⠀⠀⠉⠀⠀⣸⡇⠀⡞⣾⣿⠟⠁⠀⠀
-⣿⣿⣿⣿⠀⡎⢠⣟⢧⡸⢹⣿⠀⠈⠉⠸⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⢸⢿⡿⠋⠀⠀⠀⠀
-⣿⣿⣿⣿⠠⣧⠘⡏⢷⡱⣞⡟⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⢀⡞⡼⠁⠀⠀⠀⠀
-⣿⣿⣿⣿⣧⣻⡆⠱⠴⣷⡸⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⣿⠇⣸⣻⠃⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣯⢳⡀⢸⣍⣧⣬⢿⣷⠀⠀⠀⠀⠀⠀⠐⣶⡶⠶⠶⠒⠒⠚⠉⢉⣉⣽⠃⠀⠀⠀⠀⠀⣼⠏⢠⢷⠇⠀⠀⠀⠀
-⢹⣿⣿⣿⣿⣿⣧⡙⢦⣌⡙⠓⠦⣽⣦⠀⠀⠀⠀⠀⠀⠈⢷⣦⣤⣤⣤⣶⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⣠⡟⢀⣿⣿⡄⠀⠀
-⠀⠙⢿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠛⠒⣦⣿⣧⣄⠀⠀⠀⠀⠀⠀⠙⠻⣥⣀⣀⢀⣸⡿⠃⠀⠀⠀⠀⢀⣾⣿⢁⣿⣟⡀⠀⠀
-⠀⠀⠀⠙⠻⠿⣿⣿⣿⣿⣿⣷⣮⣙⠛⢦⣬⣿⠙⢷⣤⣄⠀⠀⠀⠀⠀⠀⣌⣉⣉⣥⠶⠀⠀⠀⣠⣴⣿⣽⢣⢿⣿⣄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠦⣬⣧⣿⡹⣯⣿⡶⣤⣤⣀⠀⠀⠀⠀⠀⢀⣠⡞⡿⣿⡿⣡⣻⣿⣿⠈⠻⣆⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠖⠿⣿⢹⣟⢳⣧⣧⡏⡿⡟⣿⣶⣤⣤⢶⣾⣿⣿⢻⢻⡟⣽⣧⠋⢻⡸⣄⠀⠀
-```
+</div>
+
+<div align="center">
+
+<img src="./portrait.png" alt="Anas portrait" width="420"/>
+
+</div>
+
+<div align="center">
 
 <!-- Animated ANAS Letters -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=500&pause=3000&color=00D9FF&center=true&multiline=true&random=false&width=900&height=130&lines=AAA....AAA..NNN....NNN..AAA....AAA..SSSSSSSS..;AA.AA.AA..NN.NN..NN..AA.AA.AA..SS........;AAAAAAAAAA..NN..NN.NN..AAAAAAAAAA..SSSSSSSS..;AA......AA..NN...NNNN..AA......AA.......SS..;AA......AA..NN....NNN..AA......AA..SSSSSSSS..)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=500&pause=3000&color=00D9FF&center=true&multiline=true&random=false&width=900&height=130&lines=AAA....AAA..NNN....NNN..AAA....AAA..SSSSSSSS..;AA.AA.AA..NN.NN..NN..AA.AA.AA..SS........;AAAAAAAAAA..NN..NN.NN..AAAAAAAAAA..SSSSSSSS..;AA......AA..NN...NNNN..AA......AA.......SS..;AA......AA..NN....NNN..AA......AA..SSSSSSSS.." alt="Typing SVG" /></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JustenAnas&label=Profile%20views&color=00d9ff&style=flat)](https://github.com/JustenAnas)
-[![GitHub followers](https://img.shields.io/github/followers/JustenAnas?label=Followers&style=flat&color=00d9ff)](https://github.com/JustenAnas)
+<a href="https://github.com/JustenAnas"><img src="https://komarev.com/ghpvc/?username=JustenAnas&label=Profile%20views&color=00d9ff&style=flat" alt="Profile Views" /></a>
+<a href="https://github.com/JustenAnas"><img src="https://img.shields.io/github/followers/JustenAnas?label=Followers&style=flat&color=00d9ff" alt="GitHub followers" /></a>
 
 </div>
 
@@ -60,16 +35,6 @@
 - 🎨 Interested in **games, movies, anime, and manga**
 - ⚡ Self-taught developer building and deploying independent projects
 - 📫 **Email:** [khananas49340@gmail.com](mailto:khananas49340@gmail.com)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JustenAnas&theme=onestar&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -163,27 +128,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustenAnas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustenAnas&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JustenAnas&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -203,7 +148,7 @@
 | 📄 **AI Resume Builder** — GenAI-powered resume generator built with MERN | [Live Demo](https://resume-maker-with-gen-ai-using-mern.vercel.app/) | [GitHub](https://github.com/JustenAnas/ResumeMaker-with-genAI-using-MERN) | MERN, GenAI |
 | 🖼️ **AI Image Enhancer** — AI-powered image enhancement application | [Live Demo](https://image-inhancer.vercel.app/) | [GitHub](https://github.com/JustenAnas/Reactjs-Projects) | React |
 | 🏦 **Banking System API** — REST API for banking operations | [API Endpoint](https://banking-system-tlgs.onrender.com) | [GitHub](https://github.com/JustenAnas/backend-projects) | Node.js, Express, MongoDB |
-| 👥 **Employee Validation System** — Employee validation dashboard | [Live Demo](https://employeevalidationsystem.vercel.app/) | [GitHub](https://github.com/JustenAnas/Reactjs-Projects/tree/main/Project-4%20(employee_validation_system)) | React, Tailwind |
+| 👥 **Employee Validation System** — Employee validation dashboard | [Live Demo](https://employeevalidationsystem.vercel.app/) | [GitHub](https://github.com/JustenAnas/Reactjs-Projects/tree/main/Project-4%20%28employee_validation_system%29) | React, Tailwind |
 
 ### 🌌 Three.js / Creative Development
 
@@ -224,11 +169,11 @@ Amazon · Netflix · Spotify · Twitter Clones · Password Manager · Portfolio 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-anas-siddiqui-6a5032261)
+<a href="https://www.linkedin.com/in/mohd-anas-siddiqui-6a5032261"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khananas49340@gmail.com)
+<a href="mailto:khananas49340@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustenAnas)
+<a href="https://github.com/JustenAnas"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -236,6 +181,6 @@ Amazon · Netflix · Spotify · Twitter Clones · Password Manager · Portfolio 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+something+awesome+%F0%9F%9A%80;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 </div>
